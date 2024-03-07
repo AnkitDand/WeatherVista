@@ -1,16 +1,10 @@
-# weather_app
+# WeatherVista
 
-A new Flutter project.
+An up-to-date real-time weather application, ensuring users stay informed about current weather
+conditions. 
 
-## Getting Started
+The application features multiple sections providing comprehensive weather information,
+including real-time updates on current temperature, hourly forecast, humidity, wind speed, and
+atmospheric pressure.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Green Ride Screenshot](https://github.com/AnkitDand/Green-Ride/assets/123248864/44ef5fe9-3a79-4501-b021-2d7a91b8625c)
